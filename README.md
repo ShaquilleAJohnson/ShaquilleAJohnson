@@ -45,7 +45,7 @@ contact()
 ```
 
 <p align="center">
-  🏢 ZERO TRUST ENTERPRISE SYSTEMS USA INC
+  🏢 BlackRock Technology USA INC
 </p>
 <p align="center">
   1201 W PeachTree Street NW Suite 2625<br>
